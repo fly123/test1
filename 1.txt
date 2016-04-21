@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 svnsvnsvn1111
-=======
-svnsvnsvn
->>>>>>> 62fe5f676da3b53c91cbf3e485325357c4e13f8b
